@@ -13,6 +13,6 @@ function stripHtml(config) {
       fragments.push(node.value);
     });
     /* We recompose the final document */
-    return parts.join("");
+    return fragments.join("");
   }
 }

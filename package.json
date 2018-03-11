@@ -1,6 +1,6 @@
 {
   "name": "rehype-strip-html",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Strip all HTML from a document",
   "main": "index.js",
   "scripts": {
