@@ -1,0 +1,29 @@
+{
+  "name": "rehype-strip-html",
+  "version": "0.1.0",
+  "description": "Strip all HTML from a document",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'No test'; exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mayeu/rehype-strip-html"
+  },
+  "keywords": [
+    "rehype",
+    "plaintext",
+    "text"
+  ],
+  "author": "Mayeu <m@mayeu.me>",
+  "license": "LGPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/Mayeu/rehype-strip-html/issues"
+  },
+  "dependencies": {
+    "unist-util-visit": "^1.3.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.11.1"
+  }
+}
